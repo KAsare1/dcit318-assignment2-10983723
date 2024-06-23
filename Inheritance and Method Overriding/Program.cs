@@ -16,7 +16,7 @@ namespace OOPDemo
     {
         public override void MakeSound()
         {
-            Console.WriteLine("Bark");
+            Console.WriteLine("Bark!");
         }
     }
 
